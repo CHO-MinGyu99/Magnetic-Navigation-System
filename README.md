@@ -7,6 +7,4 @@ and one newly devel‑oped pair of gradient and uniform saddle coils
 on average than that of the conventional MNS with a sevenfold longer operating time limit, and the maximum three‑
 dimensional rotating magnetic field is improved by 42%
 ## Video
-<div align="center">
-  <a href="https://youtube.com/shorts/4HDBJAFFwi0="_blank"><img src="Img_MNS.png"/></a>
-</div>
+![Video](https://youtube.com/shorts/4HDBJAFFwi0)
